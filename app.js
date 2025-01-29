@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // function will go here
     const stocksData = JSON.parse(stockContent);
     const userData = JSON.parse(userContent);
-  
+   
     console.log({ userData });
     console.log({ stocksData });
   
